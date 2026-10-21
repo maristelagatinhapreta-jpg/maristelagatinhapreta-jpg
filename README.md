@@ -136,7 +136,7 @@ Atualmente busco oportunidades como Desenvolvedora Full Stack Júnior, Analista 
 
 ## 📫 Contato
 
-💼 LinkedIn: www.linkedin.com/in/maristela-aparecida-costa
+💼 LinkedIn: https://www.linkedin.com/in/maristela-costa-49b348216
 
 🐙 GitHub: github.com/maristelagatinhapreta-jpg
 
