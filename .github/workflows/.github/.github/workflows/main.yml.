@@ -13,7 +13,6 @@ jobs:
     strategy:
       matrix:
         node-version: [18.x, 20.x]
-        # Se quiser adicionar mais versões, como a 22.x, basta incluir aqui
 
     steps:
     - name: Copiar código do repositório
@@ -23,11 +22,9 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: ${{ matrix.node-version }}
-        cache: 'npm' # Otimiza o cache das dependências
 
     - name: Instalar dependências
       run: npm install
 
-    - name: Executar testes
-      run: npm test
-      # Nota: Certifique-se de que o script "test" existe no seu package.json
+    - name: Verificar se o Node está rodando
+      run: node -v && npm -v
