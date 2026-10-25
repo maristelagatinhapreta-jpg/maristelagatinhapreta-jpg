@@ -1,18 +1,33 @@
-name: Meu Primeiro Workflow
+name: Node.js CI
 
 on:
   push:
+    branches: [ main, master ]
+  pull_request:
     branches: [ main, master ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
+    strategy:
+      matrix:
+        node-version: [18.x, 20.x]
+        # Se quiser adicionar mais versões, como a 22.x, basta incluir aqui
+
     steps:
     - name: Copiar código do repositório
       uses: actions/checkout@v4
 
-    - name: Executar comando de teste
-      run: |
-        echo "Olá, GitHub Actions! O fluxo de trabalho está funcionando perfeitamente."
-        uname -a
+    - name: Configurar Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm' # Otimiza o cache das dependências
+
+    - name: Instalar dependências
+      run: npm install
+
+    - name: Executar testes
+      run: npm test
+      # Nota: Certifique-se de que o script "test" existe no seu package.json
