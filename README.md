@@ -19,7 +19,7 @@ Graduada em Sistemas de Informação pela Universidade Estácio de Sá (Conclus�
 
 ### 💼 Experiência Profissional
 
-- **SOLID SOUND** | Auxiliar Administrativo (Atual)
+- **SOLID SOUND** | Auxiliar Administrativo
   * Atuação no suporte administrativo e na gestão de processos internos, contribuindo para a eficiência operacional da empresa.
   * Responsável pelo faturamento das vendas do e-commerce, emissão e controle de documentos fiscais.
   * Organização e gerenciamento de informações, documentos e registos corporativos.
