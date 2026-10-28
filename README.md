@@ -34,11 +34,11 @@ Graduada em Sistemas de Informação pela Universidade Estácio de Sá (Conclus�
 ---
 
 ### 📜 Certificações
-- Gerência de Projetos de TI (352h)
-- Implantação de Governança de T.I. (264h)
+- Gerência de Projetos de TI 
+- Implantação de Governança de T.I. 
 - Programação para Internet
 - Programação Mobile Android e iOS
-- Algoritmos Escaláveis
+- Programação para Algoritmos Escaláveis
 
 ---
 
