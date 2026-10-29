@@ -1,53 +1,224 @@
-# 👋 Olá, eu sou Maristela Costa
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Currículo - Maristela Aparecida Costa</title>
 
-🚀 Desenvolvedora em formação apaixonada por tecnologia, programação e análise de dados.
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Segoe UI', Arial, sans-serif;
+}
 
-## 💼 Portfólio Web - Sistemas de Vendas
+body{
+    background:#eef2f7;
+    padding:30px;
+}
 
-🔗 [Portfólio Web - Sistemas de Vendas](https://github.com/maristelagatinhapreta-jpg/Portf-lio-web-sistemas-vendas)
+.container{
+    max-width:1200px;
+    margin:auto;
+    display:grid;
+    grid-template-columns:320px 1fr;
+    background:white;
+    box-shadow:0 5px 20px rgba(0,0,0,.1);
+}
 
-## ⭐ Projetos em Destaque
+.sidebar{
+    background:#274d82;
+    color:white;
+    padding:30px;
+}
 
-### 🚀 Sistema de Gestão de Chamados
-🔗 https://github.com/maristelagatinhapreta-jpg/sistema-gestao-chamados
+.main{
+    padding:35px;
+}
 
-### 🤖 DevTrack AI
-🔗 https://github.com/maristelagatinhapreta-jpg/devtrack-ai
+.nome{
+    text-align:center;
+    font-size:28px;
+    font-weight:bold;
+    margin-bottom:10px;
+}
 
-### ☕ Cadastro de Clientes Java
-🔗 https://github.com/maristelagatinhapreta-jpg/cadastro-clientes-java
+.cargo{
+    text-align:center;
+    color:#dce8f7;
+    line-height:1.5;
+    margin-bottom:30px;
+}
 
-### 🎨 Redesign de Clear Springs
-🔗 https://github.com/maristelagatinhapreta-jpg/clear-springs-redesign
+.titulo-lateral{
+    font-size:18px;
+    margin-top:25px;
+    margin-bottom:15px;
+    border-bottom:2px solid rgba(255,255,255,.3);
+    padding-bottom:5px;
+}
 
-### 🌐 Scanner de IP
-🔗 https://github.com/maristelagatinhapreta-jpg/ip-scanner
+.titulo{
+    color:#274d82;
+    font-size:22px;
+    margin-bottom:15px;
+    border-left:5px solid #274d82;
+    padding-left:10px;
+}
 
-### 📊 Dashboard Financeiro em R
-🔗 https://github.com/maristelagatinhapreta-jpg/dashboard-financeiro-r
+.contato p,
+.sidebar li{
+    font-size:14px;
+    line-height:1.8;
+}
 
-### 📈 Análise de Vendas em R
-🔗 https://github.com/maristelagatinhapreta-jpg/analise-vendas-r
+.sidebar ul{
+    list-style:none;
+}
 
-## 🛠 Tecnologias
+.skill{
+    background:rgba(255,255,255,.15);
+    padding:6px 10px;
+    margin:5px 0;
+    border-radius:5px;
+}
 
-- Python
-- Java
-- HTML
-- CSS
-- JavaScript
-- R
-- Git e GitHub
-- Docker
+.main p{
+    line-height:1.7;
+    color:#444;
+}
 
-## 📚 Atualmente estudando
+.bloco{
+    margin-bottom:30px;
+}
 
-- Desenvolvimento Web
-- Java
-- Python
-- Análise de Dados
-- Inteligência Artificial
+.empresa{
+    font-weight:bold;
+    color:#274d82;
+    margin-top:15px;
+}
 
-✨ Transformando aprendizado em projetos reais todos os dias.
+.cargo-exp{
+    font-style:italic;
+    color:#666;
+    margin-bottom:8px;
+}
 
+ul{
+    margin-left:20px;
+}
 
+.formacao-item{
+    margin-bottom:15px;
+}
+
+.cert li{
+    margin-bottom:8px;
+}
+
+a{
+    color:white;
+    text-decoration:none;
+}
+
+@media(max-width:900px){
+    .container{
+        grid-template-columns:1fr;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- COLUNA ESQUERDA -->
+    <aside class="sidebar">
+
+        <div class="nome">
+            MARISTELA<br>
+            APARECIDA COSTA
+        </div>
+
+        <div class="cargo">
+            Analista de Sistemas Júnior<br>
+            Desenvolvedora Full Stack Júnior<br>
+            Java • Python • SQL
+        </div>
+
+        <div class="titulo-lateral">Contato</div>
+
+        <div class="contato">
+            <p>📍 Curitiba - PR</p>
+            <p>📞 (41) 9 9741-3521</p>
+            <p>📧 maristelagatinhapreta@gmail.com</p>
+            <p>💻 GitHub</p>
+            <p>github.com/maristelagatinhapreta-jpg</p>
+
+            <p style="margin-top:10px;">🔗 LinkedIn</p>
+            <p>linkedin.com/in/maristela-costa-49b348216</p>
+        </div>
+
+        <div class="titulo-lateral">Competências</div>
+
+        <div class="skill">Java</div>
+        <div class="skill">Python</div>
+        <div class="skill">SQL</div>
+        <div class="skill">POO</div>
+        <div class="skill">Banco de Dados</div>
+        <div class="skill">Git & GitHub</div>
+        <div class="skill">Back-End</div>
+        <div class="skill">Business Intelligence</div>
+        <div class="skill">Big Data & Analytics</div>
+        <div class="skill">Governança de TI</div>
+        <div class="skill">LGPD</div>
+        <div class="skill">Segurança da Informação</div>
+
+        <div class="titulo-lateral">Certificações</div>
+
+        <ul class="cert">
+            <li>Gerência de Projetos de TI (352h)</li>
+            <li>Implantação de Governança de TI (264h)</li>
+            <li>Programação para Internet (264h)</li>
+            <li>Programação Mobile Android e iOS (246h)</li>
+            <li>Programação de Algoritmos Escaláveis (264h)</li>
+        </ul>
+
+    </aside>
+
+    <!-- CONTEÚDO PRINCIPAL -->
+    <main class="main">
+
+        <section class="bloco">
+            <h2 class="titulo">Perfil Profissional</h2>
+
+            <p>
+                Bacharel em Sistemas de Informação, com MBAs em andamento
+                em Cibersegurança e Proteção de Dados e Business Intelligence,
+                Big Data e Analytics.
+            </p>
+
+            <br>
+
+            <p>
+                Possui conhecimentos em desenvolvimento de software,
+                análise de sistemas, banco de dados, ciência de dados,
+                governança de TI e segurança da informação.
+            </p>
+
+            <br>
+
+            <p>
+                Experiência em Java, Python, SQL, Programação Orientada
+                a Objetos (POO), desenvolvimento web, análise de dados
+                e aplicação de boas práticas de LGPD.
+            </p>
+
+            <br>
+
+            <p>
+                Profissional com perfil analítico, organizada e comprometida
+                com aprendizado contínuo, buscando oportunidade como
+                
