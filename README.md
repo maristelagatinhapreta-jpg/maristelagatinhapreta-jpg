@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="./banner.png" alt="Maristela Costa Banner" width="100%">
+  <img src="https://githubusercontent.com" alt="Maristela Costa Banner" width="100%">
 </p>
-
-
-
-
 
 # Olá, mundo! 👋 Eu sou a Maristela Costa
 
@@ -24,26 +20,16 @@ Minha trajetória profissional em rotinas administrativas estruturou uma sólida
 ### 🚀 Principais Competências & Tecnologias
 
 🖥️ **Linguagens & Web**
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![Python](https://shields.io)
-![Java](https://shields.io)
-![PHP](https://shields.io)
-![R](https://shields.io)
+
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![Python](https://shields.io) ![Java](https://shields.io) ![PHP](https://shields.io) ![R](https://shields.io)
 
 ⚙️ **Frameworks & Bibliotecas**
-![NodeJS](https://shields.io)
-![Next.js](https://shields.io)
-![React](https://shields.io)
-![Pandas](https://shields.io)
-![Streamlit](https://shields.io)
+
+![NodeJS](https://shields.io) ![Next.js](https://shields.io) ![React](https://shields.io) ![Pandas](https://shields.io) ![Streamlit](https://shields.io)
 
 🔒 **Metodologias, Gestão & Segurança**
-![Scrum](https://shields.io)
-![ITIL](https://shields.io📋-blue?style=for-the-badge)
-![LGPD & Governança](https://shields.io🔒-green?style=for-the-badge)
+
+![Scrum](https://shields.io) ![ITIL](https://shields.io📋-blue?style=flat-square) ![LGPD & Governança](https://shields.io🔒-green?style=flat-square)
 
 ---
 
@@ -78,4 +64,3 @@ Projeto completo de análise de dados econômicos utilizando a **linguagem R**. 
 
 ---
 ⚡ *Sempre motivada por novos desafios e pronta para aplicar o rigor técnico da engenharia de software na entrega de resultados ágeis e seguros.*
-
