@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="banner.png" alt="Maristela Costa Banner" width="100%">
+  <img src="https://githubusercontent.com" alt="Maristela Costa Banner" width="100%">
 </p>
+
+
 
 
 # Olá, mundo! 👋 Eu sou a Maristela Costa
