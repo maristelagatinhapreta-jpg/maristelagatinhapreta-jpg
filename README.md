@@ -1,62 +1,24 @@
-# Olá, mundo! 👋 Eu sou a Maristela Costa
-
-### **Analista de Sistemas Júnior | Desenvolvedora Full Stack em Formação**
-> *"Transformando conhecimento em soluções eficientes, seguras e orientadas a dados."*
-
----
-
-### 💻 Sobre Mim
-
-Sou graduada em **Sistemas de Informação** e venho aprimorando minha formação com foco em duas frentes altamente estratégicas para o mercado de tecnologia moderno: **Cibersegurança e Proteção de Dados**, e **Business Intelligence, Big Data e Analytics**. 
-
-Minha trajetória profissional em rotinas administrativas estruturou uma sólida base analítica, rigor com a organização de processos e facilidade para atuar em equipes multidisciplinares sob metodologias ágeis. No ecossistema técnico, atuo no desenvolvimento de soluções conectando engenharia de software, governança de TI e inteligência de dados.
-
----
-
-### 🚀 Principais Competências & Tecnologias
+## 🚀 Principais Competências & Tecnologias
 
 🖥️ **Linguagens & Web**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![Python](https://shields.io) ![Java](https://shields.io) ![PHP](https://shields.io) ![R](https://shields.io)
-
-⚙️ **Frameworks & Bibliotecas**
-
-![NodeJS](https://shields.io) ![Next.js](https://shields.io) ![React](https://shields.io) ![Pandas](https://shields.io) ![Streamlit](https://shields.io)
+⚙️ **Frameworks, Ferramentas & Bibliotecas**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 🔒 **Metodologias, Gestão & Segurança**
-
-![Scrum](https://shields.io) ![ITIL](https://shields.io📋-blue?style=flat-square) ![LGPD & Governança](https://shields.io🔒-green?style=flat-square)
-
----
-
-### 🛠️ Projetos em Destaque
-
-#### 📊 [BI & Analytics Dashboard](https://github.com)
-Dashboard interativo de Business Intelligence desenvolvido com **Python, SQL, Pandas e Streamlit**. Focado na centralização de métricas e visualização de indicadores estratégicos para tomada de decisão baseada em dados.
-
-#### ☕ [Cadastro de Clientes - Java](https://github.com)
-Aplicação desenvolvida em **Java** aplicando boas práticas de Programação Orientada a Objetos (POO), arquitetura estruturada para persistência e regras rígidas de validação de dados de negócio.
-
-#### 📈 [Dashboard Financeiro - R](https://github.com)
-Projeto completo de análise de dados econômicos utilizando a **linguagem R**. Aplicação prática de estatística descritiva, tratamento de anomalias em conjuntos de dados e geração de gráficos altamente informativos.
-
----
-
-### 📜 Certificações Relevantes
-
-*   Gerência de Projetos de TI
-*   Implantação de Governança de T.I.
-*   Programação para Internet e Algoritmos Escaláveis
-*   Programação Mobile Android e iOS
-
----
-
-### 📫 Vamos nos conectar?
-
-*   📍 **Localização:** Curitiba - PR *(Disponível para oportunidades presenciais, híbridas ou 100% Home Office)*
-*   💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
-*   📧 **E-mail:** maristelagatinhapreta@gmail.com
-*   🐙 **GitHub:** [://github.com](https://://github.com)
-
----
-⚡ *Sempre motivada por novos desafios e pronta para aplicar o rigor técnico da engenharia de software na entrega de resultados ágeis e seguros.*
+![Scrum](https://img.shields.io/badge/scrum-68A063?style=for-the-badge&logo=scrum&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL-003366?style=for-the-badge)
+![LGPD & Governança](https://img.shields.io/badge/LGPD%20%26%20Governança-00599C?style=for-the-badge)
