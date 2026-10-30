@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Maristela Costa Banner" width="100%">
+  <img src="./banner.png" alt="Maristela Costa Banner" width="100%">
 </p>
+
 
 
 
