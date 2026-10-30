@@ -15,10 +15,27 @@ Minha trajetória profissional em rotinas administrativas estruturou uma sólida
 
 ### 🚀 Principais Competências & Tecnologias
 
-*   **Linguagens & Web:** HTML5, CSS3, JavaScript, TypeScript, Python, Java, PHP, Kotlin, SQL
-*   **Frameworks & Ferramentas:** Node.js, Next.js, React, Streamlit, Pandas
-*   **Dados & BI:** Modelagem de Dados (ERD), Estatística Descritiva, Dashboards de BI, Analytics
-*   **Metodologias & Gestão:** Scrum, ITIL Foundation, Governança de TI (LGPD), Gestão de Projetos
+🖥️ **Linguagens & Web**
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![Python](https://shields.io)
+![Java](https://shields.io)
+![PHP](https://shields.io)
+![R](https://shields.io)
+
+⚙️ **Frameworks & Bibliotecas**
+![NodeJS](https://shields.io)
+![Next.js](https://shields.io)
+![React](https://shields.io)
+![Pandas](https://shields.io)
+![Streamlit](https://shields.io)
+
+🔒 **Metodologias, Gestão & Segurança**
+![Scrum](https://shields.io)
+![ITIL](https://shields.io📋-blue?style=for-the-badge)
+![LGPD & Governança](https://shields.io🔒-green?style=for-the-badge)
 
 ---
 
@@ -46,10 +63,11 @@ Projeto completo de análise de dados econômicos utilizando a **linguagem R**. 
 
 ### 📫 Vamos nos conectar?
 
-*   📍 **Localização:** Curitiba - PR (Disponível para oportunidades presenciais, híbridas ou 100% Home Office)
-*   💼 **LinkedIn:** [linkedin.com/in/maristela-costa-49b348216](https://www.linkedin.com/in/maristela-costa-49b348216)
+*   📍 **Localização:** Curitiba - PR *(Disponível para oportunidades presenciais, híbridas ou 100% Home Office)*
+*   💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
 *   📧 **E-mail:** maristelagatinhapreta@gmail.com
-*   🐙 **GitHub:** [github.com/maristelagatinhapreta-jpg](https://github.com)
+*   🐙 **GitHub:** [://github.com](https://://github.com)
 
 ---
 ⚡ *Sempre motivada por novos desafios e pronta para aplicar o rigor técnico da engenharia de software na entrega de resultados ágeis e seguros.*
+
