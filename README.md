@@ -6,24 +6,31 @@ Olá! Sou **Maristela Aparecida Costa**, Bacharel em Sistemas de Informação e 
 
 ## 🛠️ Projetos em Destaque
 
-### 1. 📊 Dashboard de Análise de Dados & BI
-* **Descrição:** Aplicação desenvolvida para processamento, análise visual de dados e geração de relatórios estratégicos.
-* **Tecnologias:** `Python`, `Pandas`, `Streamlit`, `R`
-* **Links:** [Repositório](#) | [Demonstração Ao Vivo](#)
+### 1. 📊 [BI & Analytics Dashboard](https://github.com/maristelagatinhapreta-jpg/BI-Analytics-Dashboard)
+* **Descrição:** Dashboard de Business Intelligence desenvolvido para processamento, análise visual de dados e geração de relatórios estratégicos.
+* **Tecnologias:** `Python`, `Pandas`, `Streamlit`, `SQL`
+* **Links:** [Ver Repositório](https://github.com/maristelagatinhapreta-jpg/BI-Analytics-Dashboard)
 
 ---
 
-### 2. 💻 Sistema Web Full Stack
-* **Descrição:** Sistema web completo com autenticação, manipulação de banco de dados e interface responsiva.
-* **Tecnologias:** `Java`, `JavaScript`, `HTML5`, `CSS3`, `SQL`
-* **Links:** [Repositório](#)
+### 2. 🛡️ [NetGuardian](https://github.com/maristelagatinhapreta-jpg/-NetGuardian-)
+* **Descrição:** Sistema focado em monitoramento, governança e segurança de rede.
+* **Tecnologias:** `JavaScript`, `Python`, `Segurança da Informação`
+* **Links:** [Ver Repositório](https://github.com/maristelagatinhapreta-jpg/-NetGuardian-)
 
 ---
 
-### 3. 🛡️ Sistema de Gestão & Governança de TI
-* **Descrição:** Projeto focado em adequação à LGPD, mapeamento de processos e aplicação de boas práticas de segurança e ITIL.
-* **Tecnologias:** `LGPD`, `ITIL`, `Scrum`, `Segurança da Informação`
-* **Links:** [Documentação](#)
+### 3. 💻 [Cadastro de Clientes Java](https://github.com/maristelagatinhapreta-jpg/cadastro-clientes-java)
+* **Descrição:** Aplicação desenvolvida em Java para gerenciamento e manipulação de cadastro de clientes.
+* **Tecnologias:** `Java`, `SQL`
+* **Links:** [Ver Repositório](https://github.com/maristelagatinhapreta-jpg/cadastro-clientes-java)
+
+---
+
+### 4. 📈 [Análise de Vendas em R](https://github.com/maristelagatinhapreta-jpg/analise-vendas-r)
+* **Descrição:** Projeto de análise de dados utilizando estatística descritiva e visualização gráfica.
+* **Tecnologias:** `R`, `Estatística Descritiva`
+* **Links:** [Ver Repositório](https://github.com/maristelagatinhapreta-jpg/analise-vendas-r)
 
 ---
 
