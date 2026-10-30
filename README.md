@@ -1,57 +1,55 @@
-# Hi there! 👋 Eu sou a Maristela Aparecida Costa
+# Olá, mundo! 👋 Eu sou a Maristela Costa
 
-> **Analista de Sistemas Júnior | Tecnologia da Informação**
-> *"Transformando conhecimento em soluções!"*
+### **Analista de Sistemas Júnior | Desenvolvedora Full Stack em Formação**
+> *"Transformando conhecimento em soluções eficientes, seguras e orientadas a dados."*
 
 ---
 
 ### 💻 Sobre Mim
-Graduada em Sistemas de Informação pela Universidade Estácio de Sá (Conclusão: 2024). Possuo conhecimentos em desenvolvimento web, programação, governança de TI e gestão de projetos, além de sólida experiência em rotinas administrativas, atendimento e organização de processos.
+
+Sou graduada em **Sistemas de Informação** e venho aprimorando minha formação com foco em duas frentes altamente estratégicas para o mercado de tecnologia moderno: **Cibersegurança e Proteção de Dados**, e **Business Intelligence, Big Data e Analytics**. 
+
+Minha trajetória profissional em rotinas administrativas estruturou uma sólida base analítica, rigor com a organização de processos e facilidade para atuar em equipes multidisciplinares sob metodologias ágeis. No ecossistema técnico, atuo no desenvolvimento de soluções conectando engenharia de software, governança de TI e inteligência de dados.
 
 ---
 
 ### 🚀 Principais Competências & Tecnologias
-- **Linguagens & Web:** HTML5, CSS3, JavaScript, Python, PHP, Java, Kotlin
-- **Metodologias & Gestão:** Scrum, ITIL Foundation, Governança de TI, Gestão de Projetos e Desenvolvimento Web
-- **Idiomas:** Português (Nativo) | Inglês (Básico/Intermediário)
+
+*   **Linguagens & Web:** HTML5, CSS3, JavaScript, TypeScript, Python, Java, PHP, Kotlin, SQL
+*   **Frameworks & Ferramentas:** Node.js, Next.js, React, Streamlit, Pandas
+*   **Dados & BI:** Modelagem de Dados (ERD), Estatística Descritiva, Dashboards de BI, Analytics
+*   **Metodologias & Gestão:** Scrum, ITIL Foundation, Governança de TI (LGPD), Gestão de Projetos
 
 ---
 
-### 💼 Experiência Profissional
+### 🛠️ Projetos em Destaque
 
-- **SOLID SOUND** | Auxiliar Administrativo
-  * Atuação no suporte administrativo e na gestão de processos internos, contribuindo para a eficiência operacional da empresa.
-  * Responsável pelo faturamento das vendas do e-commerce, emissão e controle de documentos fiscais.
-  * Organização e gerenciamento de informações, documentos e registos corporativos.
-  * Suporte às demandas administrativas e comerciais, garantindo a qualidade e a confiabilidade dos processos.
+#### 📊 [BI & Analytics Dashboard](https://github.com)
+Dashboard interativo de Business Intelligence desenvolvido com **Python, SQL, Pandas e Streamlit**. Focado na centralização de métricas e visualização de indicadores estratégicos para tomada de decisão baseada em dados.
 
-- **SCUICATO CIA RENNOVA** | Assistente Administrativo
-  * Atendimento, organização documental e suporte operacional.
+#### ☕ [Cadastro de Clientes - Java](https://github.com)
+Aplicação desenvolvida em **Java** aplicando boas práticas de Programação Orientada a Objetos (POO), arquitetura estruturada para persistência e regras rígidas de validação de dados de negócio.
 
-- **TINTAS VERGINIA E TINTAS DARKA** | Consultora de Vendas e Atendimento
-  * Atendimento ao cliente, negociação e acompanhamento de pedidos.
+#### 📈 [Dashboard Financeiro - R](https://github.com)
+Projeto completo de análise de dados econômicos utilizando a **linguagem R**. Aplicação prática de estatística descritiva, tratamento de anomalias em conjuntos de dados e geração de gráficos altamente informativos.
 
 ---
 
-### 📜 Certificações
-- Gerência de Projetos de TI 
-- Implantação de Governança de T.I. 
-- Programação para Internet
-- Programação Mobile Android e iOS
-- Programação para Algoritmos Escaláveis
+### 📜 Certificações Relevantes
+
+*   Gerência de Projetos de TI
+*   Implantação de Governança de T.I.
+*   Programação para Internet e Algoritmos Escaláveis
+*   Programação Mobile Android e iOS
 
 ---
 
-### ⭐ Diferenciais & Soft Skills
-Boa comunicação, Trabalho em equipa, Organização e disciplina, Facilidade de aprendizado, Proatividade e Resolução de problemas.
+### 📫 Vamos nos conectar?
+
+*   📍 **Localização:** Curitiba - PR (Disponível para oportunidades presenciais, híbridas ou 100% Home Office)
+*   💼 **LinkedIn:** [linkedin.com/in/maristela-costa-49b348216](https://www.linkedin.com/in/maristela-costa-49b348216)
+*   📧 **E-mail:** maristelagatinhapreta@gmail.com
+*   🐙 **GitHub:** [github.com/maristelagatinhapreta-jpg](https://github.com)
 
 ---
-
-### 📫 Vamos Conectar?
-- 📍 **Localização:** Curitiba - PR
-- 💼 **LinkedIn:** [linkedin.com/in/maristela-costa-49b348216](https://linkedin.com/in/maristela-costa-49b348216)
-- 📧 **E-mail:** [maristelagatinhapreta@gmail.com](mailto:maristelagatinhapreta@gmail.com)
-- 🐙 **GitHub:** [github.com/maristelagatinhapreta-jpg](https://github.com/maristelagatinhapreta-jpg)
-
----
-⚡ *Sempre em busca de novos desafios!*
+⚡ *Sempre motivada por novos desafios e pronta para aplicar o rigor técnico da engenharia de software na entrega de resultados ágeis e seguros.*
