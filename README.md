@@ -72,3 +72,9 @@ Olá! Sou **Maristela Aparecida Costa**, Bacharel em Sistemas de Informação e 
 - **Email:** maristelagatinhapreta@gmail.com
 - **LinkedIn:** [linkedin.com/in/maristela-costa-49b348216](https://linkedin.com/in/maristela-costa-49b348216)
 - **GitHub:** [github.com/maristelagatinhapreta-jpg](https://github.com/maristelagatinhapreta-jpg)
+---
+
+### 5. 🛍️ [Dashboard Omnichannel](https://github.com/maristelagatinhapreta-jpg/ecommerce-omnichannel-dashboard)
+* **Descrição:** Dashboard interativo de e-commerce e vendas unificadas com métricas de desempenho por canal.
+* **Tecnologias:** `Python`, `Pandas`, `Streamlit`, `Plotly`
+* **Links:** [Ver Repositório](https://github.com/maristelagatinhapreta-jpg/ecommerce-omnichannel-dashboard)
