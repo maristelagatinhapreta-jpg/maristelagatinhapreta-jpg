@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.jpg" alt="Maristela Costa Banner" width="100%">
-</p>
-
 # Olá, mundo! 👋 Eu sou a Maristela Costa
 
 ### **Analista de Sistemas Júnior | Desenvolvedora Full Stack em Formação**
